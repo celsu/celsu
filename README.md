@@ -1,4 +1,7 @@
-<h1 align="center">Hello 👋, I'm Celso Machado</h1>
+<h1 align="center">Hi <img src="https://github.com/celsu/celsu/assets/130976830/af95f292-fb76-401e-8109-f10ab1fe838d" alt="c" width="70" height="70"/>
+  , I'm Celso Machado</h1>
+
+
 <h3 align="center">A passionate Java backend developer</h3>
 <br>
 Welcome to my GitHub profile 😄
