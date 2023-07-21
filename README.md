@@ -17,12 +17,12 @@ I am a versatile Java developer with experience in Java, Spring Boot, SQL, and A
 <br><br>
 
 <h3 align="left">GitHub Projects:</h3>
-<br><br>
 
+- 🗂️ *https://github.com/celsu/Cars*
+
+<br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=celsu&show_icons=true&locale=en&layout=compact" alt="celsu" /></p>
 <br><br>
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
