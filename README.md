@@ -57,29 +57,15 @@ I am a versatile Java developer with experience in Java, Spring Boot, SQL, and A
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 <br><br>
 
-<br>
-<h3> Let's build something awesome together! 🚀🚀</h3>
-<br><br>
-
-<p align="center">
-  <a href="https://github.com/celsu">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=celsu&theme=radical&border=7F3FBF&background=0D1117" alt="Celso Machado's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/celsu">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=celsu&theme=radical" alt="Celso Machado's GitHub Contribution"/>
-  </a>
-</p>
-
 <a> 
   <a href="https://github.com/celsu"><img alt="Celso Machado's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=celsu&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/celsu"><img alt="Celso Machado's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=celsu&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
-<br/>
+<br/><br>
+<h3> Let's build something awesome together! 🚀🚀</h3>
+<br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
