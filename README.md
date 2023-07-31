@@ -14,11 +14,6 @@ I am a versatile Java developer with experience in Java, Spring Boot, SQL, and A
 - 👯 I’m looking to collaborate on **Java Spring Projects**
 
 - 📫 I'm always open to collaboration and networking opportunities. Feel free to reach out to me at **celsobarrosmachado@gmail.com**
-<br><br>
-
-<h3 align="left">GitHub Projects:</h3>
-
-- 🗂️ *https://github.com/celsu/Cars*
 
 <br><br>
 
