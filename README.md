@@ -12,6 +12,8 @@ I am a versatile Java developer with experience in Java, Spring Boot, SQL, and A
 - 🔭 I’m currently working on **Openbanking Integrations Projects**
 
 - 👯 I’m looking to collaborate on **Java Spring Projects**
+  
+- https://www.codingame.com/profile/6962ed44d107df199a727fb22c4f6f5c0552365
 
 - 📫 I'm always open to collaboration and networking opportunities. Feel free to reach out to me at **celsobarrosmachado@gmail.com**
 
