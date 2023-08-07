@@ -7,7 +7,7 @@
 Welcome to my GitHub profile 😄
 
 <h3 align="left">Overview: </h3>
-I am a versatile Java developer with experience in Java, Spring Boot, SQL, and Agile methodologies. Having worked in various roles, including Product Owner and Scrum Master, I bring a unique perspective to software development that combines technical expertise with a deep understanding of project management and team collaboration.
+With over a decade of experience in technology, I am a versatile Java developer with experience in Java, Spring Boot, SQL, and Agile methodologies. Having worked in various roles, including Product Owner and Scrum Master, I bring a unique perspective to software development that combines technical expertise with a deep understanding of project management and team collaboration.
 
 - 🔭 I’m currently working on **Openbanking Integrations Projects**
 
