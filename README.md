@@ -12,10 +12,7 @@ With over a decade of experience in technology, I am a versatile Java developer 
 - 🔭 I’m currently working on **Openbanking Integrations Projects**
 
 - 👯 I’m looking to collaborate on **Java Spring Projects**
-  
-- 💻 <a href="https://www.codingame.com/profile/6962ed44d107df199a727fb22c4f6f5c0552365">Profile CodinGame
 
-  
 
 - 📫 I'm always open to collaboration and networking opportunities. Feel free to reach out to me at **celsobarrosmachado@gmail.com**
 
