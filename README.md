@@ -8,10 +8,7 @@ Welcome to my GitHub profile!
 <h3 align="left">Overview: </h3>
 In 2011, I started working as a Java Developer accumulating an average of 2 years of experience in this role before transitioning to leadership roles such as Project Manager, Product Owner, Scrum Master, among others. During my journey, I have been exposed to various technologies including Spring Boot, REST API, microservices, Git, CI/CD, Docker, Kubernetes among others. Given my dedication when it comes to clean code and competence in SCRUM development setups, I am ready to take on any technical challenges found in software projects.
 
-- 🔭 I’m currently working on **Openbanking Integrations Projects**
-
 - 👯 I’m looking to collaborate on **Java Spring Projects**
-
 
 - 📫 I'm always open to collaboration and networking opportunities. Feel free to reach out to me at **celsobarrosmachado@gmail.com**
 
